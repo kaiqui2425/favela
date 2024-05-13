@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #2a2e33;
+    color: rgb(240, 215, 215);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 5%;
 }
 
 .cabecalho-lista-item{
@@ -25,11 +25,11 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 20%;
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#242931,#00d0ffc4);
     color:white;
     display: flex;
     justify-content: center;
@@ -75,7 +75,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: rgb(175, 1, 1);
     text-align: center;
 }
 
